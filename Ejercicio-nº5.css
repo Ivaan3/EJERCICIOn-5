@@ -3,10 +3,9 @@
     margin: 0;
 }
 .galeria{
-    
+    display: flex;
+    flex-wrap: wrap;
 }
 .imagengaleria{
-    display: flexbox;
-    flex-wrap: wrap;
     width: 300px;
 }
